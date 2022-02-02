@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ProductList extends ArrayList<Product> {
-
+    //contrcuteur
     public void input() throws FileNotFoundException {
 
         String name;

@@ -22,5 +22,6 @@ public class Category {
 
     public String toString(){
         return String.format("%s", name);
+
     }
 }

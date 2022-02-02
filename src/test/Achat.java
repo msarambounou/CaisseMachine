@@ -5,7 +5,6 @@ public class Achat {
     String idProduct;
     String idCategory;
     String productPrice;
-
     Achat(){
     }
 

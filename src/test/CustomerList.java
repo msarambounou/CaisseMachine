@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 
 public class CustomerList extends ArrayList<Customer>{
-
+//contrcuteur
     public CustomerList() {
 
     }

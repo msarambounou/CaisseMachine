@@ -4,7 +4,7 @@ public class Product {
     String name;
     float price;
     String indexCategory;
-
+    //contrcuteur
     Product(){
 
     }

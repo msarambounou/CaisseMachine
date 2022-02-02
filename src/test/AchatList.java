@@ -25,7 +25,7 @@ public class AchatList extends ArrayList<Achat> {
 
         ProductList productList = new ProductList();
         productList.readFromFile(productFile);
-
+        
         categoryList.display();
         System.out.println("Veuillez choisir la categorie correspondante");
         String idCategory = sc.nextLine();

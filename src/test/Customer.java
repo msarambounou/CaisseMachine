@@ -4,7 +4,7 @@ public class Customer {
 
     protected String firstname;
     protected String lastname;
-
+//const
     Customer() {
     }
 

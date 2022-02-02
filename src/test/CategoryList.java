@@ -91,7 +91,7 @@ public class CategoryList extends ArrayList<Category> {
     }
 
     public String filterCategoryIndex() throws FileNotFoundException {
-        File file = new File("CategoryFile.txt");
+        File file = new File("FileCategory.txt");
         Scanner sc = new Scanner(System.in);
 
         readFromFile(file);
